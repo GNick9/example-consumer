@@ -1,4 +1,4 @@
-# Example Consumer
+# Example Consumer 
 
 ![Build](https://github.com/pactflow/example-consumer/workflows/Build/badge.svg)
 
